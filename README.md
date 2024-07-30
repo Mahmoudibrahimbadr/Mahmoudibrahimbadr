@@ -13,13 +13,11 @@ I'm **Mahmoud Badr**, a  **Frontend Developer** from Egypt 🌍. my passion for 
 - **Languages**: ![HTML5](https://img.icons8.com/color/40/000000/html-5.png) ![CSS3](https://img.icons8.com/color/40/000000/css3.png) ![JavaScript](https://img.icons8.com/color/40/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/40/000000/typescript.png)
 
 #### Libraries & Frameworks
-- **Frontend**: ![React](https://img.icons8.com/color/40/000000/react-native.png) ![Redux](https://img.icons8.com/color/40/000000/redux.png) ![Vue.js](https://img.icons8.com/color/40/000000/vue-js.png) ![Angular](https://img.icons8.com/color/40/000000/angularjs.png)
-- **Backend**: ![Node.js](https://img.icons8.com/color/40/000000/nodejs.png) ![Express.js](https://img.icons8.com/color/40/000000/express.png)
-- **Static Site Generators**: ![Next.js](https://img.icons8.com/color/40/000000/nextjs.png) ![Gatsby](https://img.icons8.com/color/40/000000/gatsby.png)
-
+- **Frontend**: ![React](https://img.icons8.com/color/40/000000/react-native.png) ![Redux](https://img.icons8.com/color/40/000000/redux.png) 
 #### Styling
-- **Preprocessors & Frameworks**: ![Sass](https://img.icons8.com/color/40/000000/sass.png) ![Less](https://img.icons8.com/color/40/000000/less.png)
+- **Preprocessors & Frameworks**: ![Sass](https://img.icons8.com/color/40/000000/sass.png) ![Less](https://seeklogo.com/images/L/less-logo-F372EE0DD6-seeklogo.com.png)
 - **CSS Frameworks**: ![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/color/40/000000/tailwind-css.png) ![Material-UI](https://img.icons8.com/color/40/000000/material-ui.png)
+
 
 #### Tools & Platforms
 - **Version Control**: ![Git](https://img.icons8.com/color/40/000000/git.png) ![GitHub](https://img.icons8.com/material-outlined/40/000000/github.png)
