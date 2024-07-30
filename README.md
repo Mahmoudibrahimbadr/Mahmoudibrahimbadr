@@ -15,8 +15,8 @@ I'm **Mahmoud Badr**, a  **Frontend Developer** from Egypt 🌍. my passion for 
 #### Libraries & Frameworks
 - **Frontend**: ![React](https://img.icons8.com/color/40/000000/react-native.png) ![Redux](https://img.icons8.com/color/40/000000/redux.png) 
 #### Styling
-- **Preprocessors & Frameworks**: ![Sass](https://img.icons8.com/color/40/000000/sass.png) ![Less](https://seeklogo.com/images/L/less-logo-F372EE0DD6-seeklogo.com.png)
-- **CSS Frameworks**: ![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/color/40/000000/tailwind-css.png) ![Material-UI](https://img.icons8.com/color/40/000000/material-ui.png)
+- **Preprocessors & Frameworks**: ![Sass](https://img.icons8.com/color/40/000000/sass.png) 
+- **CSS Frameworks**: ![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png)  ![Material-UI](https://img.icons8.com/color/40/000000/material-ui.png)
 
 
 #### Tools & Platforms
@@ -29,8 +29,8 @@ I'm **Mahmoud Badr**, a  **Frontend Developer** from Egypt 🌍. my passion for 
 - [**Project 3**](#): A brief description of Project 3.
 
 #### 📫 Let's Connect
-- ![LinkedIn](https://img.icons8.com/color/40/000000/linkedin.png) [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- ![Twitter](https://img.icons8.com/color/40/000000/twitter.png) [Twitter](https://twitter.com/yourprofile)
+- ![LinkedIn](https://img.icons8.com/color/40/000000/linkedin.png) [Linkedin](https://www.linkedin.com/in/yourprofile)
+- ![Twitter](https://img.icons8.com/color/40/000000/twitter.png)  [Twitter](https://twitter.com/yourprofile)
 - ![Portfolio](https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/40/000000/external-portfolio-digital-marketing-flatart-icons-lineal-color-flatarticons.png) [Portfolio](https://yourportfolio.com)
 
 ---
