@@ -1,15 +1,13 @@
-Hi, i'm Mahmoud Badr, a Frontend Developer and a freelance software engineer from Egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast . i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 ---
 
 ### Hi there! 👋
 
-I'm **Mahmoud Badr**, a passionate **Frontend Developer** from Egypt 🌍. I enjoy creating delightful and user-friendly web interfaces.
+I'm **Mahmoud Badr**, a  **Frontend Developer** from Egypt 🌍. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. I enjoy creating delightful and user-friendly web interfaces.
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
 
 #### 🔧 Technologies & Tools
 - **Languages**: ![HTML5](https://img.icons8.com/color/40/000000/html-5.png) ![CSS3](https://img.icons8.com/color/40/000000/css3.png) ![JavaScript](https://img.icons8.com/color/40/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/40/000000/typescript.png)
