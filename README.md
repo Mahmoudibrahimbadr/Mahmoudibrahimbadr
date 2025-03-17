@@ -24,9 +24,9 @@ I'm **Mahmoud Badr**, a  **Frontend Developer** from Egypt 🌍. my passion for 
 - **IDEs & Editors**: ![Visual Studio Code](https://img.icons8.com/color/40/000000/visual-studio-code-2019.png)
 
 #### 🚀 Projects
-- [**Project 1**](#): A brief description of Project 1.
-- [**Project 2**](#): A brief description of Project 2.
-- [**Project 3**](#): A brief description of Project 3.
+- [**Project 1**](#): personal portfolio website, built using HTML, CSS, Flexbox, CSS Grid, and Sass. It showcases my skills, projects, and experience in web development with a clean and modern design..
+- [**Project 2**](#):.
+- [**Project 3**](#):.
 
 #### 📫 Let's Connect
 - ![LinkedIn](https://img.icons8.com/color/40/000000/linkedin.png) [Linkedin](https://www.linkedin.com/in/yourprofile)
