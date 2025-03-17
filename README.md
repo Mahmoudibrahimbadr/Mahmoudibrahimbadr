@@ -29,10 +29,9 @@ I'm **Mahmoud Badr**, a  **Frontend Developer** from Egypt 🌍. my passion for 
 - [**Project 3**](#):.
 
 #### 📫 Let's Connect
-- ![LinkedIn](https://img.icons8.com/color/40/000000/linkedin.png)(https://www.linkedin.com/in/mahmoud-badr96)
-- ![Twitter](https://img.icons8.com/color/40/000000/twitter.png) 
-- ![Portfolio](https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/40/000000/external-portfolio-digital-marketing-flatart-icons-lineal-color-flatarticons.png)
----
+- ![LinkedIn](https://img.icons8.com/color/40/000000/linkedin.png)https://www.linkedin.com/in/mahmoud-badr96
+- ![Twitter](https://img.icons8.com/color/40/000000/twitter.png)
+- ![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%93%85-blue)
 
 
 - 💬 ask me about anything, i am happy to help;
